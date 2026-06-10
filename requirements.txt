@@ -4,3 +4,4 @@ biopython
 stmol
 py3Dmol
 xlsxwriter
+ipython_genutils
