@@ -134,11 +134,6 @@ if choice == "Dashboard":
     col1, col2 = st.columns([1, 2])
     
     with col1:
-        st.subheader("Construct Schematic")
-        try:
-            st.image("construct.png", caption="NiV Chimeric Vaccine Construct")
-        except Exception:
-            st.warning("To display your schematic, save your image as 'construct.png' in the same folder as app.py")
         
         st.divider()
         st.subheader("Construct Analysis & 3D Structure")
