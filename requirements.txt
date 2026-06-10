@@ -1,0 +1,6 @@
+streamlit
+pandas
+biopython
+stmol
+py3Dmol
+xlsxwriter
