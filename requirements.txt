@@ -5,3 +5,4 @@ stmol
 py3Dmol
 xlsxwriter
 ipython_genutils
+openpyxl
